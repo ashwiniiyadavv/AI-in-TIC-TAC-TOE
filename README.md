@@ -1,4 +1,3 @@
-This is a Tic-Tac-Toe game with computer playing against you , it's implemented using MiniMax Algorithm which allows the program to choose best action (move) from sets of all possible actions by going till the end of each action (move) and seeing where that move will lead to in the end if the opponent played the best move possible.
 
 The code is divided into multiple functions; each function performing some specific task.
 
